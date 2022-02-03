@@ -4,7 +4,7 @@
 }
 
 .about-me{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .title{
@@ -20,11 +20,11 @@ h1{
 body{
     font-family: Georgia;
     background-image:url(https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
-    font-size: 35px;
+    font-size: 30px;
     
 }
 p , .title{
-    color: azure;
+    color: gray;
 }
 
 img{
